@@ -1,0 +1,50 @@
+body{
+    background-color: burlywood;
+}
+header{
+    padding-top: 5px;
+    text-align: center;
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+section{
+    background-color: white;
+    width: 650px;
+    height: 200px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.233);
+    margin-top: 20px;
+}
+
+div#msg{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 13pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 20px;
+    text-align: center;
+}
+
+div#botao{
+    padding-top: 20px;
+    text-align: center;
+}
+input#botao{
+    
+    width: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: unset;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.226);
+}
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    padding-top: 20px;
+    text-align: center;
+}

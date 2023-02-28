@@ -1,0 +1,88 @@
+body{
+    background-color: bisque;
+}
+header{
+    text-align: center;
+    color: black;
+    font: normal 15pt Sanfracisco;
+}
+section{
+    background-color: white;
+    width: 500px;
+    height: auto;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.250);
+    
+    
+}
+div#mensagem{
+    padding-top: 1px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13pt;
+}
+input#peso{
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.212);
+    border-color: unset;
+    border-radius: 5px;
+    width: 76px;
+}
+input#altura{
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.212);
+    border-color: unset;
+    width: 70px;
+    
+}
+div#botao_1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13pt;
+    padding-left: 5px;
+}
+div#botao_2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13pt;
+    padding-top: 10px;
+    padding-left: 5px;
+
+}
+div#botao_3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13pt;
+    text-align: center;
+    padding-top: 15px;
+    
+
+
+}
+input#calcular{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13pt;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    background-color: beige;
+    border-color: beige;
+    color: black;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.377);
+
+
+}
+div#resultado{
+    padding-left: 5px;
+}
+p#imc{
+    font: normal 13pt Sanfracisco ;
+}
+footer{
+    text-align: center;
+    padding-top: 50px;
+    font: italic 12pt Sanfrancisco black;
+    
+}
+section#tabela{
+    width: 200px;
+    height: 400px;
+    margin-left: 20px
+    
+}

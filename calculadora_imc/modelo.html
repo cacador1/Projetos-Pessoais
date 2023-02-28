@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora IMC</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Calculadora IMC</h1>
+    </header>
+
+    <section>
+
+        <div id="mensagem">
+
+            <p id="msg">Preencha os dados abaixo!</p>
+        </div>
+
+
+        <div id="botao_1">
+
+            Peso: <input type="number" id="peso" min="1"> KG
+
+        </div>
+
+        <div id="botao_2">
+            Altura <input type="number" id="altura" min="1"> Mts
+        </div>
+
+        <div id="botao_3">
+            <input type="button" value="Calcular" id="calcular" onclick="calcular()">
+        </div>
+        
+        <div id="resultado">
+
+            <p id="imc"></p>
+        </div>
+        
+    </section>
+
+
+
+    
+
+    <footer>&copy;Gabriel Caçador</footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>

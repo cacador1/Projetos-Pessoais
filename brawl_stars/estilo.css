@@ -1,0 +1,52 @@
+body{
+
+    background-color: rgb(96, 96, 228);
+}
+section{
+    background-color: antiquewhite;
+    width: 500px;
+    height: 390px;
+    margin: auto;
+    border-radius: 20px;
+    
+
+}
+
+header{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.432);
+}
+div#texto{
+    text-align: center;
+    padding-top: 30px;
+    
+}
+p#msg{
+    font: normal 15pt arial;
+}
+div#divbotao{
+    text-align: center;
+    padding-top: 50px;
+    
+    
+}
+input#botao{
+    width: 100px;
+    height: 40px;
+    font-size: 15pt;
+    border-radius: 8px;
+    border-style: unset;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.774);
+}
+div#foto{
+    text-align: center;
+    padding-top: 35px;
+    
+}
+img#imagem{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+}
