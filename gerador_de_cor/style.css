@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(65, 157, 185);
+
+}
+header{
+    text-align: center;
+}
+h1{
+    font-family: Georgia, serif;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.137);
+}
+
+.principal{
+    
+    background-color: white;
+    width: 500px;
+    height: 380px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(51, 48, 48, 0.411);
+}
+.dados{
+    padding-top: 5px;
+    text-align: center;
+}
+.msg{
+    font-family: Calibri;
+    font-size: 13pt;
+    padding-top: 10px;
+    text-align: center;
+}
+.botao{
+    font-size: 11pt;
+    font-family: Calibri;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.192);
+    border-color: unset;
+    border-radius: 5px;
+    width: 100px;
+}
+.cor{
+    border-color: unset;
+    box-shadow: 5px 5px 10px rgba(54, 54, 54, 0.226);
+    border-radius: 5px;
+    border-width: 1.5px;
+    width: 90px;
+    height: 90px;
+    background-color: rgb();
+}
+.resultado{
+    font-family: Calibri;
+    font-size: 13pt;
+    padding-left: 10px;
+}
+.caixa_de_cor{
+
+    text-align: center;
+    
+}
+.colorir{
+    padding-top: 10px;
+    text-align: center;
+}
+.titulo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.colorir_botao{
+    font-size: 11pt;
+    font-family: Calibri;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.192);
+    border-color: unset;
+    border-radius: 5px;
+    width: 100px;
+    
+}
+.limpar{
+    font-size: 11pt;
+    font-family: Calibri;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.192);
+    border-color: unset;
+    border-radius: 5px;
+    width: 100px;
+}
+footer{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    padding-top: 40px;
+    text-align: center;
+}

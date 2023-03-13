@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(226, 202, 172);
+}
+    
+.titulo{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+hr{
+    background-color: black;
+    width: auto;
+}
+.foto{
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+.foto-perfil{
+
+    text-align: center;
+}
+.img{
+    border-radius: 50%;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.301);
+}
+.infos{
+    position: relative;
+    padding-top: 10px;
+}
+
+.caixa-texto{
+    
+    position: relative;
+    background-color: #FFF9C4;
+    max-width: 500px;
+    max-height: 93px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(51, 48, 48, 0.411);
+    padding-top: 1px;
+    text-align: center;
+    width: 490px;
+    font-size: 11pt;
+    font-family: monospace;
+}
+
+
+.skills{
+    padding-top: 10px
+
+}
+.html{
+    padding-right: 20px;
+    display: inline-block;
+    padding-top: 5px;
+}
+.css{
+    padding-left: 20px;
+    display: inline-block;
+    padding-top: 10px;
+}
+.javascript{
+    
+    padding-left: 20px;
+    display: inline-block;
+    padding-top: 10px;
+}
+.rodape{
+    margin-top: 20px;
+    border-radius: 5px;
+    height: 360px;
+    background-color: #FFF9C4;
+}
+
+.skills-lista{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.contatos{
+    padding-top: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.logo{
+    
+    margin-top: 10px;
+    text-align: center;
+}
+footer{
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
